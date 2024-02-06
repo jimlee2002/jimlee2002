@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Jim 👋
 
 <!--
 **jimlee2048/jimlee2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlee2048&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Don't know what to say, so at least have a great day my friend! :D
