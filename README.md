@@ -1,4 +1,4 @@
-### Hi there, this is Jim 👋
+### Hi there 👋
 
 <!--
 **jimlee2048/jimlee2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Don't know what to say, so at least have a great day! :D
+:D
